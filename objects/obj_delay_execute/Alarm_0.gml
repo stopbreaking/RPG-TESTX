@@ -1,0 +1,1 @@
+script_execute_array(action, args);

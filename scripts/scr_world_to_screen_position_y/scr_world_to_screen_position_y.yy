@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_world_to_screen_position_y",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_world_to_screen_position_y",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

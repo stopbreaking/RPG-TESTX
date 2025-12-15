@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"angelic_guitar_pad_25800",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":165.264,
+  "name":"angelic_guitar_pad_25800",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"angelic_guitar_pad_25800.mp3",
+  "type":0,
+  "volume":1.0,
+}

@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"sh_scrolling_rainbow_gradient",
+  "name":"sh_scrolling_rainbow_gradient",
+  "parent":{
+    "name":"Shaders",
+    "path":"folders/Shaders.yy",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}

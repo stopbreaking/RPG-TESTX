@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_krnfa_waves",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":124.91202,
+  "name":"snd_krnfa_waves",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_krnfa_waves.wav",
+  "type":0,
+  "volume":1.0,
+}

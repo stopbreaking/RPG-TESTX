@@ -1,0 +1,1 @@
+bug_spawn_count = 0;

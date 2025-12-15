@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_set_player_state_idle",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_set_player_state_idle",
+  "parent":{
+    "name":"Transitions",
+    "path":"folders/Scripts/PlayerStates/Transitions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

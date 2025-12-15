@@ -1,0 +1,1 @@
+global.cutscene_on = true; // Is this just hard to find? Shouldn't there be a better way?

@@ -1,0 +1,1 @@
+spawn_count(obj_particle_burst, x, y + z - 16, 10);

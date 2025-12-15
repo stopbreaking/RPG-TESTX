@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"hand_trigger_enter_exit",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"hand_trigger_enter_exit",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"npc_stop_talking",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"npc_stop_talking",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_aske_drumbeat",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":19.115057,
+  "name":"snd_aske_drumbeat",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_aske_drumbeat.ogg",
+  "type":0,
+  "volume":1.0,
+}

@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"ahhhh_37191",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":7.536009,
+  "name":"ahhhh_37191",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"ahhhh_37191.mp3",
+  "type":0,
+  "volume":1.0,
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_on_click_flip_lever",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_on_click_flip_lever",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

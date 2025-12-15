@@ -1,0 +1,1 @@
+cutscene_call_next_action();

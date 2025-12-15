@@ -1,0 +1,95 @@
+sprite_index = spr_signpost_back;
+sprite_highlight = spr_signpost_back_highlight;
+sprite_idle = spr_signpost_back;
+on_mouse_enter_args = [self, sprite_highlight];
+on_mouse_exit_args = [self, sprite_idle];
+
+dialogue_array = array_create(2, []);
+
+if(!global.flags[0]) {
+dialogue_array[0] = [
+	[lock_player],
+	[lock_hand_function],
+	[camera_snap_to_object, [me]],
+	[animate_cam_zoom, [1]],
+	[cutscene_set_portrait_enabled, [false]],
+	[change_sprite, [obj_guy, spr_guy_look_north]],
+	[0, cutscene_set_text, ["Fun fact! Some of the harder lumps of sand in the ground are SANDMEN."]],
+	[0, cutscene_set_text, ["Research on |||||| has caused buried test subjects to be reanimated."]],
+	[0, cutscene_set_text, ["Science team has ordered not to neutralize because they are 'fascinating.'"]],
+	[0, cutscene_set_text, ["DO NOT TOUCH."]],
+	[cutscene_set_portrait_enabled, [true]],
+	[cutscene_set_portrait, [spr_portrait_guy_neutral_talking]],
+	[0, cutscene_set_text, ["I see.."]],
+	[switch_sprite, [me, spr_signpost_back_to_front]],
+	[queue_animation_change, [me, spr_signpost_idle]],
+	[cutscene_set_portrait, [spr_portrait_sign]],
+	[0, cutscene_set_text, ["Yep! You'll die!"]],
+	[increment_dialogue, [me]],
+	[cutscene_set_portrait, [spr_portrait_guy_neutral_talking]],
+	[0, cutscene_set_text, ["But this way is safe?"]],
+	[cutscene_set_portrait, [spr_portrait_sign]],
+	[0, cutscene_set_text, ["Not really!"]],
+	[0, cutscene_set_text, ["But it's safer!"]],
+	[change_sprite, [me, spr_signpost_idle]],
+	[set_clickable_sprites, [me, spr_signpost_idle, spr_signpost_highlight]],
+	[destroy_cutscene_gui],
+	[unlock_hand_function],
+	[unlock_player],
+]; 
+} else {
+dialogue_array[0] = [[lock_player],
+			[lock_hand_function],
+			[camera_snap_to_object, [me]],
+			[animate_cam_zoom, [1]],
+			[cutscene_set_portrait, [spr_portrait_sign]],
+			[cutscene_set_portrait, [spr_portrait_guy_angry]],
+			[0, cutscene_set_text, ["TURN AROUND."]],
+			[switch_sprite, [me, spr_signpost_back_to_front]],
+			[queue_animation_change, [me, spr_signpost_idle]],
+			[0, cutscene_wait_frames, [15]],
+			[0, cutscene_set_text, ["You know, you coulda' killed me back there!"]],
+			[cutscene_set_portrait, [spr_portrait_sign]], // Make text speed slower?? Would be funny
+			[0, cutscene_set_text, ["I thought It would be funny."]],
+			[change_sprite, [me, spr_signpost_sideeye_happy]],
+			[0, cutscene_set_text, ["And, y'know.."]],
+			[change_sprite, [me, spr_signpost_evil_eyes]],
+			[0, cutscene_set_text, ["I'm Evil."]],
+			[cutscene_set_portrait, [spr_portrait_guy_angry]],
+			[change_sprite, [me, spr_signpost_sideeye_happy]],
+			[0, cutscene_set_text, ["Well I'm PISSED."]],
+			[change_sprite, [me, spr_signpost_idle]],
+			[0, cutscene_set_text, ["And I don't forget easily."]],
+			[cutscene_set_portrait, [spr_portrait_sign]],
+			[change_sprite, [me, spr_signpost_highlight]],
+			[0, cutscene_set_text, ["Geez.."]],
+			[0, cutscene_set_text, ["It was just a little joke.."]],
+			[change_sprite, [me, spr_signpost_idle]],
+			[set_clickable_sprites, [me, spr_signpost_idle, spr_signpost_highlight]],
+			[increment_dialogue, [me]],
+			[destroy_cutscene_gui],
+			[camera_snap_to_player],
+			[unlock_hand_function],
+			[unlock_player],];
+}
+
+dialogue_array[1] = [
+	[lock_player],
+	[lock_hand_function],
+	[camera_snap_to_object, [me]],
+	[animate_cam_zoom, [1]],
+	//[cutscene_set_portrait_enabled, [false]],
+	[change_sprite, [obj_guy, spr_guy_look_north]],
+	[cutscene_set_portrait, [spr_portrait_sign]],
+	[change_sprite, [me, spr_signpost_sideeye_happy]],
+	[0, cutscene_set_text, ["My original plan, to fool the guy I was sent here to intercept, was to ingratiate myself by saving his life."]],
+	[change_sprite, [me, spr_signpost_idle_fried]],
+	[0, cutscene_set_text, ["But since he knows a shortcut.."]],
+	[cutscene_set_portrait, [spr_portrait_guy_neutral_talking]],
+	[0, cutscene_set_text, ["You're stuck saving my life instead."]],
+	[0, cutscene_set_text, ["What a shame.."]],
+	[camera_snap_to_player],
+	[destroy_cutscene_gui],
+	[unlock_hand_function],
+	[unlock_player],
+];

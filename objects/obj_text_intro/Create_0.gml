@@ -1,0 +1,2 @@
+x = RESOLUTION_W / 2;
+y = RESOLUTION_H / 2;

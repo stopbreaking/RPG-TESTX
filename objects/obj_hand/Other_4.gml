@@ -1,0 +1,1 @@
+player_character = obj_guy;

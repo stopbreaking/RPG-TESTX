@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_new_narrator_text_normal",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_new_narrator_text_normal",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

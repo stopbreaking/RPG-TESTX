@@ -1,0 +1,1 @@
+if(action_obj != noone) instance_destroy(action_obj);

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_prompt_check_hand_state",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_prompt_check_hand_state",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_camera_main_set_view_uniform_size",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_camera_main_set_view_uniform_size",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

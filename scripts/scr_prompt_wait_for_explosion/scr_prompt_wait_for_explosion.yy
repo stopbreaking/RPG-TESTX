@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_prompt_wait_for_explosion",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_prompt_wait_for_explosion",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

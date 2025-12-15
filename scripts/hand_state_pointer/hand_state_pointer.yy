@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"hand_state_pointer",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"hand_state_pointer",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

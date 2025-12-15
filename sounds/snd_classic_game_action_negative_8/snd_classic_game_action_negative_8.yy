@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_classic_game_action_negative_8",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":1.4159864,
+  "name":"snd_classic_game_action_negative_8",
+  "parent":{
+    "name":"Delivery Guy Vs Time and Space",
+    "path":"Delivery Guy Vs Time and Space.yyp",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_classic_game_action_negative_8.mp3",
+  "type":0,
+  "volume":1.0,
+}

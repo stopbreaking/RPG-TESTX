@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"start_cutscene_phonecall",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"start_cutscene_phonecall",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

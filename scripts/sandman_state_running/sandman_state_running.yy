@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"sandman_state_running",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"sandman_state_running",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

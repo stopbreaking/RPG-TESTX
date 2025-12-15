@@ -1,0 +1,1 @@
+if(global.game_data.level_started == false) instance_destroy();

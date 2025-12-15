@@ -1,0 +1,1 @@
+//event_unregister("puzzle_completed", self);

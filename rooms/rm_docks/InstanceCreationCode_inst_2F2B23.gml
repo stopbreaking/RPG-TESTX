@@ -1,0 +1,15 @@
+actions = [
+	[lock_player],
+	[lock_hand_function],
+	[cutscene_set_portrait, [spr_portrait_guy_neutral]],
+	[0, cutscene_set_text, ["Well well well.."]],
+	[camera_snap_to_object, [obj_buried_crystal]],
+	[0, cutscene_set_text, ["We meet again."]],
+	[camera_snap_to_player],
+	[0, cutscene_set_text, ["This shouldn't be too hard."]],
+	[0, cutscene_set_text, ["Just have to find my way around.."]],
+	[destroy_cutscene_gui],
+	[camera_snap_to_player],
+	[unlock_hand_function],
+	[unlock_player],
+	]

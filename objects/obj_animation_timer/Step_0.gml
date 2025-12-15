@@ -1,0 +1,1 @@
+t = min(t + timer_speed, 1);

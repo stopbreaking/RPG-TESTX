@@ -1,0 +1,1 @@
+nine_slice_box_stretched(spr_white_box, x, y, x + sprite_width, y + sprite_height, 0);

@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_edited_newagesoup__finger_snap_stereo_05",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.40501133,
+  "name":"snd_edited_newagesoup__finger_snap_stereo_05",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_edited_newagesoup__finger_snap_stereo_05.mp3",
+  "type":0,
+  "volume":1.0,
+}

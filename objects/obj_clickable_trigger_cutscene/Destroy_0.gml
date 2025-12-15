@@ -1,0 +1,1 @@
+if(instance_exists(interact_point)) instance_destroy(interact_point);

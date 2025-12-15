@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"player_state_hop",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"player_state_hop",
+  "parent":{
+    "name":"PlayerStates",
+    "path":"folders/Scripts/PlayerStates.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

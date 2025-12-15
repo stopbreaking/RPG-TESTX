@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_destroy_cutscene_gui",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_destroy_cutscene_gui",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

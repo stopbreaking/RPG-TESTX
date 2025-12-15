@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"delay",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"delay",
+  "parent":{
+    "name":"Transitions",
+    "path":"folders/Scripts/PlayerStates/Transitions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

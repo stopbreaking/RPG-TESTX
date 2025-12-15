@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_cutscene_set_player_state_shaking_loose",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_cutscene_set_player_state_shaking_loose",
+  "parent":{
+    "name":"Transitions",
+    "path":"folders/Scripts/PlayerStates/Transitions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

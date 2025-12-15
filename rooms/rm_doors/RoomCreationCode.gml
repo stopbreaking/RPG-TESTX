@@ -1,0 +1,4 @@
+view_enabled = true;
+view_visible[0] = true;
+view_camera[0] = global.main_camera;
+global.player_health = 3;

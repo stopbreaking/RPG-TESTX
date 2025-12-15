@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"send_player_character",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"send_player_character",
+  "parent":{
+    "name":"Transitions",
+    "path":"folders/Scripts/PlayerStates/Transitions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

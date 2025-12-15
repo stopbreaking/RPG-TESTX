@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"update_all_gates",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"update_all_gates",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

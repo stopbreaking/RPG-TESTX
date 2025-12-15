@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_cutscene_set_textbox_player_control",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_cutscene_set_textbox_player_control",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

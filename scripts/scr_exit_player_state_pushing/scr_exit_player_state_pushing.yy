@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_exit_player_state_pushing",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_exit_player_state_pushing",
+  "parent":{
+    "name":"Transitions",
+    "path":"folders/Scripts/PlayerStates/Transitions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

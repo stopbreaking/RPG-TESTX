@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_type_hopping_letters_anim_curve_proper",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_type_hopping_letters_anim_curve_proper",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

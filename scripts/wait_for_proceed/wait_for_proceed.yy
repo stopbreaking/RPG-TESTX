@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"wait_for_proceed",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"wait_for_proceed",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

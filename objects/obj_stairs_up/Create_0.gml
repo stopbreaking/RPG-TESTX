@@ -1,0 +1,1 @@
+depth = -(y - sprite_width/2);

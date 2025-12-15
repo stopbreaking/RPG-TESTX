@@ -1,0 +1,1 @@
+///@description Don't update prev_frame.

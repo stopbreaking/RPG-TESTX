@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"fulfill_quest",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"fulfill_quest",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_flip_obj_imagex",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_flip_obj_imagex",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
